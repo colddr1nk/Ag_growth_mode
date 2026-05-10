@@ -15,5 +15,3 @@
 ## 03 gcga
 
 - grand canonical genetic algorithm (GCGA)
-
-## 04 long_MD
